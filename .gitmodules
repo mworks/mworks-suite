@@ -31,3 +31,6 @@
 [submodule "mw_editor"]
 	path = mw_editor
 	url = git://github.com/monkeyworks-project/mw_editor.git
+[submodule "mw_supporting"]
+	path = mw_supporting
+	url = git://github.com/monkeyworks-project/mw_supporting.git
