@@ -1,36 +1,36 @@
 [submodule "mw_core"]
 	path = mw_core
-	url = git://github.com/monkeyworks-project/mw_core.git
+	url = git://github.com/mworks-project/mw_core.git
 [submodule "mw_cocoa"]
 	path = mw_cocoa
-	url = git://github.com/monkeyworks-project/mw_cocoa.git
+	url = git://github.com/mworks-project/mw_cocoa.git
 [submodule "mw_client"]
 	path = mw_client
-	url = git://github.com/monkeyworks-project/mw_client.git
+	url = git://github.com/mworks-project/mw_client.git
 [submodule "mw_server"]
 	path = mw_server
-	url = git://github.com/monkeyworks-project/mw_server.git
+	url = git://github.com/mworks-project/mw_server.git
 [submodule "mw_client_plugins"]
 	path = mw_client_plugins
-	url = git://github.com/monkeyworks-project/mw_client_plugins.git
+	url = git://github.com/mworks-project/mw_client_plugins.git
 [submodule "mw_core_plugins"]
 	path = mw_core_plugins
-	url = git://github.com/monkeyworks-project/mw_core_plugins.git
+	url = git://github.com/mworks-project/mw_core_plugins.git
 [submodule "mw_build"]
 	path = mw_build
-	url = git://github.com/monkeyworks-project/mw_build.git
+	url = git://github.com/mworks-project/mw_build.git
 [submodule "mw_datatools"]
 	path = mw_datatools
-	url = git://github.com/monkeyworks-project/mw_datatools.git
+	url = git://github.com/mworks-project/mw_datatools.git
 [submodule "mw_scarab"]
 	path = mw_scarab
-	url = git://github.com/monkeyworks-project/mw_scarab.git
+	url = git://github.com/mworks-project/mw_scarab.git
 [submodule "mw_xcode_templates"]
 	path = mw_xcode_templates
-	url = git://github.com/monkeyworks-project/mw_xcode_templates.git
+	url = git://github.com/mworks-project/mw_xcode_templates.git
 [submodule "mw_editor"]
 	path = mw_editor
-	url = git://github.com/monkeyworks-project/mw_editor.git
+	url = git://github.com/mworks-project/mw_editor.git
 [submodule "mw_supporting"]
 	path = mw_supporting
-	url = git://github.com/monkeyworks-project/mw_supporting.git
+	url = git://github.com/mworks-project/mw_supporting.git
