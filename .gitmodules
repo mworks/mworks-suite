@@ -34,3 +34,6 @@
 [submodule "mw_supporting"]
 	path = mw_supporting
 	url = git://github.com/mworks-project/mw_supporting.git
+[submodule "mw_examples"]
+	path = mw_examples
+	url = git://github.com/mworks-project/mw_examples.git
