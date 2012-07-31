@@ -1,9 +1,9 @@
 [submodule "mworks"]
 	path = mworks
 	url = git://github.com/mworks/mworks.git
-[submodule "dicarlolab_mwcore_plugins"]
-	path = dicarlolab_mwcore_plugins
+[submodule "plugins/core"]
+	path = plugins/core
 	url = git://github.com/dicarlolab-mworks/dicarlolab_mwcore_plugins.git
-[submodule "dicarlolab_mwclient_plugins"]
-	path = dicarlolab_mwclient_plugins
+[submodule "plugins/client"]
+	path = plugins/client
 	url = git://github.com/dicarlolab-mworks/dicarlolab_mwclient_plugins.git
