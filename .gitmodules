@@ -7,3 +7,9 @@
 [submodule "plugins/client/.dicarlolab_mwclient_plugins"]
 	path = plugins/client/.dicarlolab_mwclient_plugins
 	url = git://github.com/dicarlolab-mworks/dicarlolab_mwclient_plugins.git
+[submodule "plugins/core/NIDAQ"]
+	path = plugins/core/NIDAQ
+	url = git://github.com/dicarlolab-mworks/NIDAQ.git
+[submodule "plugins/core/EyeLink1000"]
+	path = plugins/core/EyeLink1000
+	url = git://github.com/pschwed/MWorks-Eyelink-1000-Plugin.git
