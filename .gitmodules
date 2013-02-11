@@ -12,4 +12,4 @@
 	url = git://github.com/dicarlolab-mworks/NIDAQ.git
 [submodule "plugins/core/EyeLink1000"]
 	path = plugins/core/EyeLink1000
-	url = git://github.com/pschwed/MWorks-Eyelink-1000-Plugin.git
+	url = git://github.com/dicarlolab-mworks/EyeLink1000.git
