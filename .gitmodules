@@ -1,15 +1,18 @@
 [submodule "mworks"]
 	path = mworks
 	url = git://github.com/mworks/mworks.git
-[submodule "plugins/core/.dicarlolab_mwcore_plugins"]
-	path = plugins/core/.dicarlolab_mwcore_plugins
-	url = git://github.com/dicarlolab-mworks/dicarlolab_mwcore_plugins.git
 [submodule "plugins/client/.dicarlolab_mwclient_plugins"]
 	path = plugins/client/.dicarlolab_mwclient_plugins
 	url = git://github.com/dicarlolab-mworks/dicarlolab_mwclient_plugins.git
-[submodule "plugins/core/NIDAQ"]
-	path = plugins/core/NIDAQ
-	url = git://github.com/dicarlolab-mworks/NIDAQ.git
+[submodule "plugins/core/.dicarlolab_mwcore_plugins"]
+	path = plugins/core/.dicarlolab_mwcore_plugins
+	url = git://github.com/dicarlolab-mworks/dicarlolab_mwcore_plugins.git
 [submodule "plugins/core/EyeLink1000"]
 	path = plugins/core/EyeLink1000
 	url = git://github.com/dicarlolab-mworks/EyeLink1000.git
+[submodule "plugins/core/MovingDots"]
+	path = plugins/core/MovingDots
+	url = git://github.com/dicarlolab-mworks/MovingDots.git
+[submodule "plugins/core/NIDAQ"]
+	path = plugins/core/NIDAQ
+	url = git://github.com/dicarlolab-mworks/NIDAQ.git
