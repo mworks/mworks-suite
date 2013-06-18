@@ -16,3 +16,6 @@
 [submodule "plugins/core/NIDAQ"]
 	path = plugins/core/NIDAQ
 	url = git://github.com/dicarlolab-mworks/NIDAQ.git
+[submodule "plugins/core/MouseInput"]
+	path = plugins/core/MouseInput
+	url = git://github.com/dicarlolab-mworks/MouseInput.git
