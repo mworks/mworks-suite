@@ -19,3 +19,6 @@
 [submodule "plugins/core/MouseInput"]
 	path = plugins/core/MouseInput
 	url = git://github.com/dicarlolab-mworks/MouseInput.git
+[submodule "plugins/core/HighPrecisionClock"]
+	path = plugins/core/HighPrecisionClock
+	url = git://github.com/dicarlolab-mworks/HighPrecisionClock
