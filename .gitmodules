@@ -22,3 +22,6 @@
 [submodule "plugins/core/HighPrecisionClock"]
 	path = plugins/core/HighPrecisionClock
 	url = git://github.com/dicarlolab-mworks/HighPrecisionClock
+[submodule "plugins/core/USBHID"]
+	path = plugins/core/USBHID
+	url = git://github.com/dicarlolab-mworks/USBHID.git
