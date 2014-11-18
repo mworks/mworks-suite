@@ -25,3 +25,6 @@
 [submodule "plugins/core/USBHID"]
 	path = plugins/core/USBHID
 	url = git://github.com/dicarlolab-mworks/USBHID.git
+[submodule "plugins/core/BlackrockLEDDriver"]
+	path = plugins/core/BlackrockLEDDriver
+	url = git://github.com/dicarlolab-mworks/BlackrockLEDDriver.git
