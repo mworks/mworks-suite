@@ -28,3 +28,6 @@
 [submodule "plugins/core/BlackrockLEDDriver"]
 	path = plugins/core/BlackrockLEDDriver
 	url = git://github.com/dicarlolab-mworks/BlackrockLEDDriver.git
+[submodule "plugins/core/OpenEphys"]
+	path = plugins/core/OpenEphys
+	url = git@github.com:dicarlolab-mworks/OpenEphys.git
