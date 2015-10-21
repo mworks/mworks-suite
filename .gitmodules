@@ -10,18 +10,9 @@
 [submodule "plugins/core/EyeLink1000"]
 	path = plugins/core/EyeLink1000
 	url = git://github.com/dicarlolab-mworks/EyeLink1000.git
-[submodule "plugins/core/MovingDots"]
-	path = plugins/core/MovingDots
-	url = git://github.com/dicarlolab-mworks/MovingDots.git
 [submodule "plugins/core/NIDAQ"]
 	path = plugins/core/NIDAQ
 	url = git://github.com/dicarlolab-mworks/NIDAQ.git
-[submodule "plugins/core/MouseInput"]
-	path = plugins/core/MouseInput
-	url = git://github.com/dicarlolab-mworks/MouseInput.git
-[submodule "plugins/core/HighPrecisionClock"]
-	path = plugins/core/HighPrecisionClock
-	url = git://github.com/dicarlolab-mworks/HighPrecisionClock
 [submodule "plugins/core/USBHID"]
 	path = plugins/core/USBHID
 	url = git://github.com/dicarlolab-mworks/USBHID.git
