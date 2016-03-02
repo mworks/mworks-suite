@@ -1,24 +1,24 @@
 [submodule "mworks"]
 	path = mworks
-	url = git://github.com/mworks/mworks.git
+	url = https://github.com/mworks/mworks.git
 [submodule "plugins/client/.dicarlolab_mwclient_plugins"]
 	path = plugins/client/.dicarlolab_mwclient_plugins
-	url = git://github.com/dicarlolab-mworks/dicarlolab_mwclient_plugins.git
+	url = https://github.com/dicarlolab-mworks/dicarlolab_mwclient_plugins.git
 [submodule "plugins/core/.dicarlolab_mwcore_plugins"]
 	path = plugins/core/.dicarlolab_mwcore_plugins
-	url = git://github.com/dicarlolab-mworks/dicarlolab_mwcore_plugins.git
-[submodule "plugins/core/EyeLink1000"]
-	path = plugins/core/EyeLink1000
-	url = git://github.com/dicarlolab-mworks/EyeLink1000.git
-[submodule "plugins/core/NIDAQ"]
-	path = plugins/core/NIDAQ
-	url = git://github.com/dicarlolab-mworks/NIDAQ.git
-[submodule "plugins/core/USBHID"]
-	path = plugins/core/USBHID
-	url = git://github.com/dicarlolab-mworks/USBHID.git
+	url = https://github.com/dicarlolab-mworks/dicarlolab_mwcore_plugins.git
 [submodule "plugins/core/BlackrockLEDDriver"]
 	path = plugins/core/BlackrockLEDDriver
-	url = git://github.com/dicarlolab-mworks/BlackrockLEDDriver.git
+	url = https://github.com/dicarlolab-mworks/BlackrockLEDDriver.git
+[submodule "plugins/core/EyeLink1000"]
+	path = plugins/core/EyeLink1000
+	url = https://github.com/dicarlolab-mworks/EyeLink1000.git
+[submodule "plugins/core/NIDAQ"]
+	path = plugins/core/NIDAQ
+	url = https://github.com/dicarlolab-mworks/NIDAQ.git
 [submodule "plugins/core/OpenEphys"]
 	path = plugins/core/OpenEphys
-	url = git://github.com/dicarlolab-mworks/OpenEphys.git
+	url = https://github.com/dicarlolab-mworks/OpenEphys.git
+[submodule "plugins/core/USBHID"]
+	path = plugins/core/USBHID
+	url = https://github.com/dicarlolab-mworks/USBHID.git
