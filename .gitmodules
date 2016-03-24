@@ -19,6 +19,3 @@
 [submodule "plugins/core/OpenEphys"]
 	path = plugins/core/OpenEphys
 	url = https://github.com/dicarlolab-mworks/OpenEphys.git
-[submodule "plugins/core/USBHID"]
-	path = plugins/core/USBHID
-	url = https://github.com/dicarlolab-mworks/USBHID.git
