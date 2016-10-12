@@ -28,3 +28,6 @@
 [submodule "plugins/core/TextStimulus"]
 	path = plugins/core/TextStimulus
 	url = https://github.com/dicarlolab-mworks/TextStimulus.git
+[submodule "plugins/core/VideoStimulus"]
+	path = plugins/core/VideoStimulus
+	url = https://github.com/dicarlolab-mworks/VideoStimulus.git
