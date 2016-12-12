@@ -13,6 +13,9 @@
 [submodule "plugins/core/EyeLink1000"]
 	path = plugins/core/EyeLink1000
 	url = https://github.com/dicarlolab-mworks/EyeLink1000.git
+[submodule "plugins/core/EyeTribe"]
+    path = plugins/core/EyeTribe
+    url = https://github.com/dicarlolab-mworks/EyeTribe.git
 [submodule "plugins/core/Firmata"]
 	path = plugins/core/Firmata
 	url = https://github.com/dicarlolab-mworks/Firmata.git
