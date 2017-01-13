@@ -25,9 +25,3 @@
 [submodule "plugins/core/OpenEphys"]
 	path = plugins/core/OpenEphys
 	url = https://github.com/dicarlolab-mworks/OpenEphys.git
-[submodule "plugins/core/TextStimulus"]
-	path = plugins/core/TextStimulus
-	url = https://github.com/dicarlolab-mworks/TextStimulus.git
-[submodule "plugins/core/VideoStimulus"]
-	path = plugins/core/VideoStimulus
-	url = https://github.com/dicarlolab-mworks/VideoStimulus.git
