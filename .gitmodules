@@ -25,3 +25,6 @@
 [submodule "plugins/core/OpenEphys"]
 	path = plugins/core/OpenEphys
 	url = https://github.com/dicarlolab-mworks/OpenEphys.git
+[submodule "plugins/core/XIMEACamera"]
+	path = plugins/core/XIMEACamera
+	url = https://github.com/dicarlolab-mworks/XIMEACamera.git
